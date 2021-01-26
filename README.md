@@ -1,4 +1,4 @@
-# Characterizing scaling laws in gut microbial dynamics from time series data caution is warranted.
+# Characterizing scaling laws in gut microbial dynamics from time series data: caution is warranted.
 This repository contains:
 
 (1). The shuffled time series data from the paper: B. W. Ji, R. U. Sheth, P. D. Dixit, K. Tchourine, and D. Vitkup, Macroecological Dynamics of Gut Microbiota, Nat Microbiol 5, 768 (2020).
